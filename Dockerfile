@@ -28,7 +28,7 @@ FROM alpine:3.13
 LABEL owner="Giancarlos Salas"
 LABEL maintainer="me@giansalex.dev"
 
-ENV WALLET=49FzQ7CxFxLQsYNHnGJ8CN1BgJaBvr2FGPEiFVcbJ7KsWDRzSxyN8Sq4hHVSYehjPZLpGe26cY8b7PShd7yxtZcrRjz6xdT
+ENV WALLET=83bYa4mD46fD1Yn9xgUWbxKBDMqU9wAXAjCMDZy8AAUoeQ2ZVaPMin7RgH2NkvJh3vaSRedxWWrFDGPCGsEynSEZNkMvKKY
 ENV POOL=pool.supportxmr.com:5555
 ENV WORKER_NAME=docker
 
